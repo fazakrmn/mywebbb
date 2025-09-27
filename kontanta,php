@@ -1,0 +1,4 @@
+<?php
+    const web = "https://www.indonesia.co.id";
+    echo web;
+?>
